@@ -87,7 +87,7 @@ Keras, derin öğrenme (deep learning) uygulamaları geliştirmek için kullanı
 NumPy, Python dilinde büyük sayılar ve çok boyutlu diziler üzerinde hızlı ve etkili matematiksel işlemler gerçekleştirmeye olanak sağlayan bir python kütüphanedir. NumPy, aynı zamanda Python'da matematiksel işlemler yapmak için kullanılan diğer kütüphanelerle uyumlu bir şekilde çalışır.
 
 <p align="center">
-  <img src="https://matteding.github.io/images/broadcasting-3d-scalar.gif" alt="Example GIF" height="300", width="400">
+  <img src="https://miro.medium.com/v2/resize:fit:1322/1*-92hdE2O8Jv0JFDaZz_mAg.gif" alt="Example GIF" height="300", width="400">
 </p>
 
 ## Tensorflow <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="Numpy Logo" width="35" align="left">
@@ -100,7 +100,7 @@ TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım 
 
 Matplotlib, Python programlama dilinin temel çizim kitaplığıdır. Python görselleştirme paketleri arasında en yaygın kullanılanıdır.
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ZvFv81XgsfhwqoAM0MOKKtzuVfhxw77xDMFd33AzpZ0ErQLp0e53PNItYnE7cbZuLYd4Ssv2CG540RE1h1nUS3PU5jLF71Zg-jYaxI5mFZXVSvZnnklptUxR3bd2VP28it24tt8op9QH/s400/plot_surface_animation_funcanimation_r.gif" height="300", width="400">
+  <img src="https://media.licdn.com/dms/image/D4E12AQE_eImLYaRIAw/article-cover_image-shrink_720_1280/0/1719480732368?e=2147483647&v=beta&t=aeM7q3xhSmLkI_EiyyjAVWnwz10uja4FTCM88DHY1Yg" height="300", width="400">
 </p>
 
 
