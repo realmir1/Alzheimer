@@ -53,7 +53,7 @@ Kaggle ve Visual Studio Code ortamında geliştirilmiştir.
 <br> 
 
 <div align="Center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*JSbnt_mxpFfkGtNtGbR40g.png" height="200" alt="numpy logo"  />
+  <img src="https://db0dce98.rocketcdn.me/es/files/2021/09/illu_kaggle-43-1024x562.jpg" height="200" alt="numpy logo"  />
   <img src="https://www.justinjbird.me/images/apps/vscode.webp" height="200" alt="numpy logo"  />
 <br>
 </div>
@@ -80,7 +80,7 @@ Proje için aşağıdaki Python kütüphaneleri gereklidir:
 Keras, derin öğrenme (deep learning) uygulamaları geliştirmek için kullanılan açık kaynaklı bir Python kütüphanesidir. Başlangıçta Theano ve TensorFlow gibi arka uç kütüphanelerine dayanarak çalışıyordu, ancak günümüzde TensorFlow'un yüksek seviyeli API'si olarak entegre edilmiştir. Keras, kullanıcı dostu ve modüler bir yapıya sahip olup, hızlı prototipleme, eğitim ve derin öğrenme modellerinin geliştirilmesi için idealdir.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:2400/1*36MELEhgZsPFuzlZvObnxA.gif" alt="Example GIF" height="300", width="400">
+  <img src="https://i2.wp.com/cdn-images-1.medium.com/max/550/1*pO5X2c28F1ysJhwnmPsy3Q.gif?ssl=1" alt="Example GIF" height="300", width="400">
 </p>
 
 ## Numpy <img src="https://numpy.org/images/logo.svg" alt="Numpy Logo" width="35" align="left">
@@ -93,7 +93,7 @@ NumPy, Python dilinde büyük sayılar ve çok boyutlu diziler üzerinde hızlı
 ## Tensorflow <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="Numpy Logo" width="35" align="left">
 TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesidir . Bir dizi görevde kullanılabilir, ancak derin sinir ağlarının eğitimi ve çıkarımına özel olarak odaklanmaktadır
 <p align="center">
-  <img src="https://www.tensorflow.org/static/site-assets/images/marketing/cards/spotify-tensorflow-agents-recommendation-systems.gif" alt="Example GIF" height="300", width="400">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN2KPoea9rFZo4nb0SZKrBrEUjNv-xaqB7gF6Htl5lY5AtOmKH1yFalD9Y6XHNNgtUYqsJCPUr-7a4MJIvdcubXogxerrskVqKfQGhKSpUyrnroLhEi6P5vMXqYE22J3_dnLRuWiBv5Nw/s0/Random+Forest+03.gif" alt="Example GIF" height="300", width="540">
 </p>
 
 ## Matplotlib <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Numpy Logo" width="35" align="left">
