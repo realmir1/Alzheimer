@@ -46,6 +46,65 @@ Model şu şekilde derlenmiştir:
 
 `ImageDataGenerator`, gerçek zamanlı veri artırma sağlar ve aşırı öğrenmeyi önlemek için verileri eğitim ve doğrulama kümelerine ayırır.
 
+
+
+## Geliştirldiği Ortamlar
+Kaggle ve Visual Studio Code ortamında geliştirilmiştir.
+<br> 
+
+<div align="Center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*JSbnt_mxpFfkGtNtGbR40g.png" height="200" alt="numpy logo"  />
+  <img src="https://www.justinjbird.me/images/apps/vscode.webp" height="200" alt="numpy logo"  />
+<br>
+</div>
+
+## Gerekli Kütüphaneler
+Proje için aşağıdaki Python kütüphaneleri gereklidir:
+- TensorFlow
+- NumPy
+- Matplotlib
+- Keras
+<br>
+<div align="Center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="50" alt="plotlib logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" height="50" alt="plotlib logo"/>
+  <img width="12" />
+</div>
+
+## Keras <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="35" align="left">
+
+Keras, derin öğrenme (deep learning) uygulamaları geliştirmek için kullanılan açık kaynaklı bir Python kütüphanesidir. Başlangıçta Theano ve TensorFlow gibi arka uç kütüphanelerine dayanarak çalışıyordu, ancak günümüzde TensorFlow'un yüksek seviyeli API'si olarak entegre edilmiştir. Keras, kullanıcı dostu ve modüler bir yapıya sahip olup, hızlı prototipleme, eğitim ve derin öğrenme modellerinin geliştirilmesi için idealdir.
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:2400/1*36MELEhgZsPFuzlZvObnxA.gif" alt="Example GIF" height="300", width="400">
+</p>
+
+## Numpy <img src="https://numpy.org/images/logo.svg" alt="Numpy Logo" width="35" align="left">
+NumPy, Python dilinde büyük sayılar ve çok boyutlu diziler üzerinde hızlı ve etkili matematiksel işlemler gerçekleştirmeye olanak sağlayan bir python kütüphanedir. NumPy, aynı zamanda Python'da matematiksel işlemler yapmak için kullanılan diğer kütüphanelerle uyumlu bir şekilde çalışır.
+
+<p align="center">
+  <img src="https://matteding.github.io/images/broadcasting-3d-scalar.gif" alt="Example GIF" height="300", width="400">
+</p>
+
+## Tensorflow <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="Numpy Logo" width="35" align="left">
+TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesidir . Bir dizi görevde kullanılabilir, ancak derin sinir ağlarının eğitimi ve çıkarımına özel olarak odaklanmaktadır
+<p align="center">
+  <img src="https://www.tensorflow.org/static/site-assets/images/marketing/cards/spotify-tensorflow-agents-recommendation-systems.gif" alt="Example GIF" height="300", width="400">
+</p>
+
+## Matplotlib <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Numpy Logo" width="35" align="left">
+
+Matplotlib, Python programlama dilinin temel çizim kitaplığıdır. Python görselleştirme paketleri arasında en yaygın kullanılanıdır.
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ZvFv81XgsfhwqoAM0MOKKtzuVfhxw77xDMFd33AzpZ0ErQLp0e53PNItYnE7cbZuLYd4Ssv2CG540RE1h1nUS3PU5jLF71Zg-jYaxI5mFZXVSvZnnklptUxR3bd2VP28it24tt8op9QH/s400/plot_surface_animation_funcanimation_r.gif" height="300", width="400">
+</p>
+
+
+
 ## Sonuçlar
 
 Eğitim sırasında doğruluk ve doğrulama doğruluğu, 10 epok boyunca şu şekilde çizilmiştir:
@@ -111,15 +170,6 @@ Modelin doğrulama veri seti üzerindeki tahminleri, gerçek etiketlerle birlikt
 - VGG16 veya ResNet gibi önceden eğitilmiş modeller kullanılarak transfer öğrenme yapılması.
 
 ## Katkıda Bulunun
-
 Katkılar memnuniyetle karşılanır! İyileştirmeler veya ek özellikler için sorunlar açabilir veya pull request gönderebilirsiniz.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için `LICENSE` dosyasına bakabilirsiniz.
-
-## Teşekkürler
-
-- **Veri Seti:** Kaggle Tıbbi Tarama Sınıflandırma Veri Seti
-- **Framework ve Kütüphaneler:** TensorFlow, Keras, Matplotlib, NumPy
 
