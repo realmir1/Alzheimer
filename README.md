@@ -108,8 +108,9 @@ Matplotlib, Python programlama dilinin temel çizim kitaplığıdır. Python gö
 ## Sonuçlar
 
 Eğitim sırasında doğruluk ve doğrulama doğruluğu, 10 epok boyunca şu şekilde çizilmiştir:
-
-![Doğruluk Grafiği](path-to-accuracy-plot)
+<p align="center">
+  <img src="https://github.com/realmir1/Alzheimer/blob/main/Ekran%20Resmi%202025-01-29%2017.15.27.png?raw=true" height="300", width="400">
+</p>
 
 ### Örnek Tahminler
 
@@ -122,7 +123,9 @@ Modelin doğrulama veri seti üzerindeki tahminleri, gerçek etiketlerle birlikt
 | Yok                       | Yok                  |
 | Orta Alzheimer            | Orta Alzheimer       |
 
-![Örnek Tahminler](path-to-sample-predictions)
+<p align="center">
+  <img src="https://github.com/realmir1/Alzheimer/blob/main/Ekran%20Resmi%202025-01-29%2017.19.46.png?raw=true" height="500", width="600">
+</p>
 
 ## Kullanım
 
